@@ -4,7 +4,7 @@
 #
 Name     : php-SeasLog
 Version  : 2.1.0
-Release  : 3
+Release  : 4
 URL      : https://pecl.php.net/get/SeasLog-2.1.0.tgz
 Source0  : https://pecl.php.net/get/SeasLog-2.1.0.tgz
 Summary  : No detailed summary available
@@ -48,4 +48,4 @@ make  %{?_smp_mflags}
 
 %files lib
 %defattr(-,root,root,-)
-/usr/lib64/extensions/no-debug-non-zts-20180731/seaslog.so
+/usr/lib64/extensions/no-debug-non-zts-20190902/seaslog.so
