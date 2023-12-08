@@ -4,7 +4,7 @@
 #
 Name     : php-SeasLog
 Version  : 2.2.0
-Release  : 48
+Release  : 49
 URL      : https://pecl.php.net/get/SeasLog-2.2.0.tgz
 Source0  : https://pecl.php.net/get/SeasLog-2.2.0.tgz
 Summary  : No detailed summary available
